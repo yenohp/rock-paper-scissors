@@ -5,7 +5,7 @@ Create a simple rock paper scissors game in the console of a webpage.
 
 Functions:
 computerPlay()
-
+playerInput()
 playRound()
 game(playerSelection,
 computerSelection);
