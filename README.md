@@ -21,3 +21,11 @@ Return consistent value regardless of input (don't have error catches for misspe
 Get both return values
 Compare each scenario
 Return appropriate result.
+
+==================================
+UI branch:
+// Add three buttons that correspond to choices
+Add eventlisteners onto button presses that call playRound()
+Add div displaying results of round
+Display running score and announce winner once one player reaches 5 points
+Commit
